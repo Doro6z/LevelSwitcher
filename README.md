@@ -6,9 +6,9 @@
 > Editor tool for fast level navigation in Unreal Editor
 
 ## Overview
-Level Switcher is an editor tool designed to improve ergonomics and reduce navigation time in multi-map projects.
+Level Switcher is an editor tool designed to improve ergonomics and reduce navigation time between levels for UE users.
 It scans the project for all level assets and centralizes them in a dedicated panel with favorites and startup configuration.
-Access it via Window > Level Switcher or the toolbar icon.
+Access it via Window > Level Switcher or the toolbar icon between Play & Sequencer buttons.
 
 ## Key Features
 - Scan and list all levels (UWorld assets) in one panel
